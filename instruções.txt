@@ -1,0 +1,23 @@
+Galera ta ai o Server Browser para Android
+Os servers sao ordenados por menor IP
+a busca demora um pouco nao e lentidao
+do app nem do celular, a demora e pela
+busca em todos os servers do Master
+e feito rastreamento em todos os IPs
+e players online para gerar a lista.
+Torno de 1 min pelo wifi, melhor do que
+ligar o pc, abrir o qw, ir no browser
+dar refresh, ou abrir o site do 
+quakeservers.net...
+
+Instruções
+1-Renomear a extenção para .apk
+2-Liberar a instação de app de terceiros,
+ainda nao fiz o cadastro no Google Play
+pois e pago estamos em crise
+3-Instalar o app
+4-Abrir
+*Use o Wifi para melhor desempenho
+
+Versao Beta Teste
+Bugs reportem pls
